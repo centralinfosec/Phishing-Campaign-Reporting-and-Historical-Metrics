@@ -12,7 +12,7 @@ PhishReport is a custom Excel Workbook that automates the management of phishing
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Phishing-Campaign-Reporting-and-Historical-Metrics /opt/jamesm0rr1s/Phishing-Campaign-Reporting-and-Historical-Metrics
+git clone https://github.com/centralinfosec/Phishing-Campaign-Reporting-and-Historical-Metrics /opt/Central-InfoSec/Phishing-Campaign-Reporting-and-Historical-Metrics
 ```
 
 ## Usage
